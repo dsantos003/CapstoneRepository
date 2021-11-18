@@ -1,4 +1,4 @@
 # CapstoneRepository
-Dani's Capstone Course project
+IBM Data Science Capstone Course project
 
-This is a practice text for this repository
+This repository contains all the files utilized to complete the project
